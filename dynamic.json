@@ -1,0 +1,44 @@
+{
+"basics":{
+"image":"images/grass.jpeg",
+"name":"jathin",
+"email":"jathin.reddy098@gmail.com"
+},
+"CARRIER":{
+  "info":"i want to seek a position where i can explore my taughts and skills for the benifit of the organisation"
+},
+"EDUCATIONAL":[
+  {
+  "sno":"1",
+    "degree":"btech",
+    "institute":"mits",
+    "percentage":"85",
+    "yop":"2022"
+  },
+  {
+    "sno":"2",
+    "degree":"inter",
+    "institute":"narayana",
+    "percentage":"90",
+      "yop":"2018"
+
+  },
+  {
+    "sno":"3",
+    "degree":"school",
+    "institute":"srichaitanya",
+    "percentage":"85",
+      "yop":"2015"
+}],
+"skills":[
+  {
+    "info":"c"
+  },
+  {
+  "info":"c++"
+},
+{
+  "info":"java"
+}
+]
+}

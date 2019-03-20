@@ -1,0 +1,26 @@
+body{
+  background:  #e83f1a;
+display: flex;
+}
+.left{
+  background-color: #49ebd5;
+  width: 25%;
+    border-radius: 5%;
+
+
+}
+.right{
+  background: #49ebd5;
+  width: 65%;
+    border-radius: 5%;
+
+}
+img{
+  width: 75%;
+  height: 75%;
+  border-radius: 5%;
+}
+.table{
+  border:1px solid purple;
+
+}
